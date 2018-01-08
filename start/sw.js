@@ -1,5 +1,6 @@
 var dataCacheName = 'weatherData-v1';
 var cacheName = 'weatherPWA-final-1';
+//静态页面 基础域名 https://m.sh.189.cn/
 var filesToCache = [
     '/html/pwa-demo/start/',
     "/html/pwa-demo/start/index.html",
