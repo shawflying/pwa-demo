@@ -1,0 +1,47 @@
+.fly_title {
+    width: 100%;
+    padding-top: 10%;
+}
+
+.fly_title img {
+    width: 100%;
+}
+
+.fly_font1 {
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 2rem;
+    color: #ff840c;
+}
+
+.fly_font2 {
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 1.6rem;
+    color: #ff840c;
+}
+
+.fly_other_page {
+    width: 33.3%;
+    text-align: center;
+    float: left;
+    margin-top: 10%;
+}
+
+.fly_other_page p {
+    margin-top: 8%;
+    font-size: 1.5rem;
+    color: #ff840c;
+}
+
+.fly_other_page img {
+    width: 30%;
+}
+
+a {
+    text-decoration: none;
+    color: #ff840c;
+    font-size: 18px;
+}
