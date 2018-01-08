@@ -1,11 +1,11 @@
 var dataCacheName = 'weatherData-v1';
 var cacheName = 'weatherPWA-final-1';
 var filesToCache = [
-    '/',
-    "/index.html",
-    "/css/base.css",
-    "/img/icons/icon-128x128.png",
-    "/img/head.jpg"
+    '/html/pwa-demo/start/',
+    "/html/pwa-demo/start/index.html",
+    "/html/pwa-demo/start/css/base.css",
+    "/html/pwa-demo/start/img/icons/icon-128x128.png",
+    "/html/pwa-demo/start/img/head.jpg"
 ];
 
 
