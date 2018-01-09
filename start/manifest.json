@@ -2,7 +2,7 @@
     "name": "Minimal app to try PWA",
     "short_name": "Minimal PWA",
     "display": "standalone",
-    "start_url": "/",
+    "start_url": "https://m.sh.189.cn/html/pwa-demo/start/index.html",
     "theme_color": "#8888ff",
     "background_color": "#aaaaff",
     "icons": [{
